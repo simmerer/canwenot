@@ -23,6 +23,7 @@ This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on A
 - [Paper Review: Attention Is All You Need](https://aakritsinghal44.medium.com/paper-review-attention-is-all-you-need-5cd659c972f4)
 
 ### Everything Is Going Just Great
+- [How a Google Employee Fell for the Eliza Effect](https://www.theatlantic.com/ideas/archive/2022/06/google-lamda-chatbot-sentient-ai/661322/)
 - [ChatGPT is Dumber Than You Think](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/)
 - [ChatGPT invented a sexual harassment scandal and named a real law prof as the accused](https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/)
 - [Most AI is Not AI](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/not-all-ai-is-really-ai-what-you-need-to-know.aspx)
