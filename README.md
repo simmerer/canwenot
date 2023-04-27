@@ -26,7 +26,7 @@ This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on A
 - [How a Google Employee Fell for the Eliza Effect](https://www.theatlantic.com/ideas/archive/2022/06/google-lamda-chatbot-sentient-ai/661322/)
 - [ChatGPT is Dumber Than You Think](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/)
 - [ChatGPT invented a sexual harassment scandal and named a real law prof as the accused](https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/)
-- [Large Libel Models](https://www2.law.ucla.edu/volokh/ailibel.pdf)
+- [Large Libel Models? Liability for AI Output](https://www2.law.ucla.edu/volokh/ailibel.pdf)
 - [Most AI is Not AI](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/not-all-ai-is-really-ai-what-you-need-to-know.aspx)
 - [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 - [You Get the Internet You Deserve](https://www.theregister.com/2022/12/06/internet_ai_gpt_ios/)
