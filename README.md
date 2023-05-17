@@ -2,6 +2,8 @@
 
 This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on April 22, 2023.
 
+[Watch it here](https://www.youtube.com/watch?v=82w7dxUJ_NE) on the Minnestar YouTube channel.
+
 ## Links
 
 ### The Early Internet of Shit
