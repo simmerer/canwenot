@@ -19,7 +19,6 @@ This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on A
 - [Is Amazon’s Mechanical Turk a Failure?](https://blog.codinghorror.com/is-amazons-mechanical-turk-a-failure/)
 - [The Online Hell of Amazon’s Mechanical Turk](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/)
 
-
 ### LLM Origins
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
 - [Paper Review: Attention Is All You Need](https://aakritsinghal44.medium.com/paper-review-attention-is-all-you-need-5cd659c972f4)
@@ -32,3 +31,4 @@ This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on A
 - [Most AI is Not AI](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/not-all-ai-is-really-ai-what-you-need-to-know.aspx)
 - [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 - [You Get the Internet You Deserve](https://www.theregister.com/2022/12/06/internet_ai_gpt_ios/)
+- [A.I.-Generated Content Discovered on News Sites, Content Farms and Product Reviews](https://www.nytimes.com/2023/05/19/technology/ai-generated-content-discovered-on-news-sites-content-farms-and-product-reviews.html)
