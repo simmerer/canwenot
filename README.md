@@ -32,3 +32,4 @@ This talk was first given at [Minnebar 17](https://minnestar.org/minnebar/) on A
 - [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 - [You Get the Internet You Deserve](https://www.theregister.com/2022/12/06/internet_ai_gpt_ios/)
 - [A.I.-Generated Content Discovered on News Sites, Content Farms and Product Reviews](https://www.nytimes.com/2023/05/19/technology/ai-generated-content-discovered-on-news-sites-content-farms-and-product-reviews.html)
+- [Plagiarism Engine: Google’s Content-Swiping AI Could Break the Internet](https://www.tomshardware.com/news/google-sge-break-internet)
